@@ -1,6 +1,6 @@
 # 💉 Gotas de Esperança
 
-![Logo Gotas de Esperança](img/logo_gotas_esperanca.svg)
+![Logo Gotas de Esperança](img/logo_gotas_esperanca.pngg)
 
 ## 📱 Projeto Integrado I: Desenvolvimento Móvel
 
