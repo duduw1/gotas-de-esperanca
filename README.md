@@ -1,5 +1,7 @@
 # 💉 Gotas de Esperança
 
+![Logo Gotas de Esperança](img/logo_gotas_esperanca.svg)
+
 ## 📱 Projeto Integrado I: Desenvolvimento Móvel
 
 **Professor:** Ilo Amy Saldanha Rivero  
