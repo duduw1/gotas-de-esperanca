@@ -2,12 +2,12 @@
 
 ## 📁 Arquivos de Logo Disponíveis
 
-### 1. **logo_gotas_esperanca.svg** (200x200px)
+### 1. **logo_gotas_esperanca.png** (200x200px)
 - **Versão completa** com texto e elementos decorativos
 - **Cores:** Vermelho (sangue), Azul (esperança), Verde (vida)
 - **Ideal para:** Cabeçalhos, cartões de apresentação, documentação
 
-### 2. **logo_simples.svg** (120x120px)
+### 2. **logo_simples.png** (120x120px)
 - **Versão minimalista** focada nas gotas
 - **Cores:** Vermelho, Azul, Verde
 - **Ideal para:** Favicon, ícones pequenos, aplicativo móvel
@@ -23,17 +23,17 @@
 
 ### **No README.md:**
 ```markdown
-![Logo Gotas de Esperança](img/logo_gotas_esperanca.svg)
+![Logo Gotas de Esperança](img/logo_gotas_esperanca.png)
 ```
 
 ### **No HTML:**
 ```html
-<img src="img/logo_simples.svg" alt="Gotas de Esperança" width="60" height="60">
+<img src="img/logo_simples.png" alt="Gotas de Esperança" width="60" height="60">
 ```
 
 ### **Como Favicon:**
 ```html
-<link rel="icon" type="image/svg+xml" href="img/logo_simples.svg">
+<link rel="icon" type="image/png" href="img/logo_simples.png">
 ```
 
 ## ✨ **Vantagens do SVG:**
