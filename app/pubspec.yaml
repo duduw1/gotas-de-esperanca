@@ -30,14 +30,25 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  firebase_core: ^2.27.0    # Use a versão mais recente compatível
-  firebase_auth: ^4.17.8   # Para autenticação
-  cloud_firestore: ^4.15.8 # Para banco de dados (usaremos para perfis, campanhas)
+  
+
   provider: ^6.1.2         # Para gerenciamento de estado
-  google_maps_flutter: ^2.5.0
-  geolocator: ^10.1.0
+ 
   flutter_map: ^6.1.0
   latlong2: ^0.9.0
+  # Dependências principais - versões atualizadas mas compatíveis
+  cloud_firestore: ^4.8.0  # Versão mais estável
+  firebase_auth: ^4.9.0    # Versão mais estável  
+  firebase_core: ^2.24.0   # Versão mais estável
+  geolocator: 12.0.0      # Upgrade gradual
+  google_maps_flutter: ^2.5.0 # Versão estável
+  google_fonts: ^6.1.0
+  flutterflow_ui: ^0.3.1
+  
+  # Mantenha estas versões por enquanto
+  google_mobile_ads: ^5.2.0
+  webview_flutter: ^4.9.0
+  file_picker: ^8.0.7
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
 
@@ -48,7 +59,7 @@ cupertino_icons: ^1.0.8
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+  flutterflow_ui: ^0.3.1
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your

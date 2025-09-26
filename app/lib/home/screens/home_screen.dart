@@ -49,6 +49,18 @@ class HomeScreen extends StatelessWidget {
                 Navigator.of(context).pushNamed('/proximidades');
               },
             ),
+            const SizedBox(height: 12),
+            ElevatedButton.icon(
+
+
+
+
+              icon: const Icon(Icons.info), // Changed here
+              label: const Text('Sobre'), // Also changed
+              onPressed: () { // And here, route was also changed
+                Navigator.of(context).pushNamed('/sobre');
+              },
+            ),
           ],
         ),
       ),

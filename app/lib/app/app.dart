@@ -4,6 +4,11 @@ import 'package:provider/provider.dart';
 import '../features/authentication/providers/auth_provider.dart' as AppAuthProvider;
 import '../features/authentication/screens/login_screen.dart';
 import '../home/screens/home_screen.dart';
+<<<<<<< HEAD
+=======
+import '../features/about/screens/sobre_screen.dart';
+//import '../features/profile/screens/profile_screen.dart';
+>>>>>>> cc72f564e8326244289b70f7624b9c197637afb6
 import '../features/campaigns/screens/campanhas_screen.dart';
 import '../features/proximidades/screens/proximidades_screen.dart';
 
@@ -58,6 +63,11 @@ class App extends StatelessWidget {
           routes: {
             CampanhasScreen.routeName: (context) => const CampanhasScreen(),
             ProximidadesScreen.routeName: (context) => const ProximidadesScreen(),
+<<<<<<< HEAD
+=======
+            //ProfileScreen.routeName: (context) => const ProfileScreen(),
+            SobreScreen.routeName: (context) => const SobreScreen(),
+>>>>>>> cc72f564e8326244289b70f7624b9c197637afb6
           },
         );
       },
