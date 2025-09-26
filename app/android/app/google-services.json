@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1068318825899",
+    "project_id": "gotase-381eb",
+    "storage_bucket": "gotase-381eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068318825899:android:7a3d9eb28ddd1f7b1386ee",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068318825899-gfigsmvtc4187lho6pqcg81nfc87jc77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOwnPOOkZVL-xTIm9uwNDSojkMU4J3VRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068318825899-gfigsmvtc4187lho6pqcg81nfc87jc77.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068318825899-mk0l835v8upn3u6l3utrqcp9c0tg82te.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
